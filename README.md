@@ -1,15 +1,14 @@
-# Hakkımda
+# 👋 Hakkımda
 
-Merhaba! Ben [Adınız], Setur'da Enterprise Architect olarak çalışıyorum. Teknoloji ve yazılım geliştirme konularında geniş bir bilgi birikimine sahibim ve büyük ölçekli kurumsal projelerde deneyimliyim.
+Merhaba! Ben **Mehmet Can Kamar**, Setur'da Enterprise Architect olarak çalışıyorum. Teknoloji ve yazılım geliştirme konularında geniş bir bilgi birikimine sahibim ve büyük ölçekli kurumsal projelerde deneyimliyim.
 
-## Profesyonel Deneyim
+## 💼 Profesyonel Deneyim
 
 - **Setur** - Enterprise Architect
   - Kurumsal mimari stratejilerinin geliştirilmesi ve uygulanması
-  - Büyük ölçekli projelerin yönetimi ve teknik liderliği
   - Çeşitli yazılım geliştirme ekipleriyle işbirliği
 
-## İlgi Alanları
+## 🌟 İlgi Alanları
 
 - Yazılım Mimarisi
 - Bulut Bilişim
@@ -17,11 +16,10 @@ Merhaba! Ben [Adınız], Setur'da Enterprise Architect olarak çalışıyorum. T
 - DevOps
 - Yapay Zeka ve Makine Öğrenimi
 
-## İletişim
+## 📬 İletişim
 
-- **E-posta:** [email@example.com]
-- **LinkedIn:** [LinkedIn Profilinizin URL'si]
+İletişime geçmek için [GitHub profilime](https://github.com/) göz atabilirsiniz.
 
-## Hakkımda Daha Fazla
+## 📖 Hakkımda Daha Fazla
 
-Teknoloji dünyasındaki yenilikleri takip etmeyi ve sürekli öğrenmeyi seviyorum. Boş zamanlarımda açık kaynak projelere katkıda bulunuyorum ve teknoloji topluluklarında aktif olarak yer alıyorum.
+Teknoloji dünyasındaki yenilikleri takip etmeyi ve sürekli öğrenmeyi seviyorum. Boş zamanlarımda açık kaynak projelere katkıda bulunuyorum.
