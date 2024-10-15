@@ -18,7 +18,7 @@ Merhaba! Ben **Mehmet Can Kamar**, Setur'da Enterprise Architect olarak çalış
 
 ## 📬 İletişim
 
-İletişime geçmek için [GitHub profilime](https://github.com/) göz atabilirsiniz.
+İletişime geçmek için [GitHub profilime](https://github.com/mehmetcankamar-setur) göz atabilirsiniz.
 
 ## 📖 Hakkımda Daha Fazla
 
